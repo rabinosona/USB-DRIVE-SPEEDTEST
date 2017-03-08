@@ -7,3 +7,6 @@ If you have found any bugs, write me to the:
 https://vk.com/id371871098
 or
 rabinosona@gmail.com
+NOTE: THE PROGRAM REQUIRES ROOT RIGHTS. TO RUN IT, RUN:
+cd /path/to/your/directory
+sudo ./usbspeedtest (in the Release folder)
